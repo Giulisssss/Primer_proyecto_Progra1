@@ -1,2 +1,2 @@
-# Primer_proyecto_Progra1
+# Primer_proyecto_Narduzzi
 Bases de programación.
